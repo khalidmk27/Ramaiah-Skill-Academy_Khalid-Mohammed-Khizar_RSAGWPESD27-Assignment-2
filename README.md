@@ -1,4 +1,4 @@
-# MATLAB and Simulink Projects
+# MATLAB and Simulink (Assignment-2)
 
 This repository contains various MATLAB and Simulink projects, including simulations for a washing machine cycle, an elevator control system, projectile motion, an RC circuit, and temperature changes in a water tank, as well as PID control systems.
 
