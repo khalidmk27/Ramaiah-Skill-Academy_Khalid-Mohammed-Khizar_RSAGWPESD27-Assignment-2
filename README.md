@@ -81,9 +81,10 @@ This repository contains various MATLAB and Simulink projects, including simulat
 
 ### PID Transfer Functions
 1. **Transfer Function 1**:
-   - \( tf = \frac{s^3 - s + 10}{s^4 + 3s^2 - 20} \)
+   - $ tf = \frac{s^3 - s + 10}{s^4 + 3s^2 - 20} $
 2. **Transfer Function 2**:
-   - \( tf = \frac{s^3 + 2s^2 + s + 10}{s^4 + 3s - 20} \)
+   - $ tf = \frac{s^3 + 2s^2 + s + 10}{s^4 + 3s - 20} $
+
 
 ## Installation and Usage
 
