@@ -41,8 +41,8 @@ This repository contains various MATLAB and Simulink projects, including simulat
   - **Floor 3** 
 
 - **Transitions**:
-  - `Open`: Opene door based on state.
-  - `Close`: Open door based on state.
+  - `Open`: Open door based on state.
+  - `Close`: Close door based on state.
  
 ## MATLAB Programming
 
